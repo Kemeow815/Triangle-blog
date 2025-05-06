@@ -1,19 +1,83 @@
-<h1>About Here</h1>
+<h1 style="text-align: center;">你好👋，我是克喵爱吃卤面。</h1>
 
-<p>不知道从什么时候开始，博客没落了，我们似乎更倾向于社交媒体、视频网站，在茫茫的信息大海中寻找有用的东西。的确，带有强社交属性的视频网站在信息传播的角度是具有优势的，那么，我们为什么还要承担着不菲的服务器和域名费用建造一个或许没什么人看的博客呢？</p>
+<div style="text-align: center;">
+    <a href="https://blog-v3.kemeow.top/">
+        <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" height="275" />
+    </a>
+</div>
+### 关于我
 
-<h2>如今的博客是什么</h2>
+- 🧑 一个上大二的大学生🐂🐴，在南京就读。
 
-<p>在信息传播无比方便的时代，博客似乎在分享知识、分享生活的方面显得低效、笨拙。作为<strong>INTJ</strong>，我逐渐发现生活中能和自己聊得来的人真的少之又少（甚至没有），而我们作为群居动物的人类，很难压制自己心中表达的欲望，这也大概是常常写日记的人才有的想法吧。</p>
+- 🐛 学习自动化技术与应用，因被nt软件PU口袋(广告)校园的sb开屏广告恶心，所以开始接触小绿书。
 
-<p>现在的博客更像一个日记本，我们可以给它贴上好看的贴纸、用好看的胶带装饰，更重要的是可以记录那些我们想要表达却又不太想让他人知道的“<strong>秘密</strong>”。</p>
+- 🤯 酷爱折腾，将若只广告app尽量全部改掉。
 
-<h2>博客是孤独的解药</h2>
+- 🎮 不玩手机网游，非wzry和ys玩家，现在只在PC上玩LOL(菜逼)、各种单机游戏(泰拉瑞亚和饥荒为主)。
 
-<p>曾经看到别人的博客每天成百上千的访问量，也会不由自主地感到羡慕，毕竟谁不想被关注呢？那时，为了增加访问量，我无比热衷于搞什么友链、联盟之类的东西，每天无数次地看百度统计的后台数据，看到总访问量一天天增加获得的满足。</p>
+- 💡 我通常会在这个博客里记录我的资源分享、生活日记和踩坑教程，希望在这里你能得偿所愿。
 
-<p>但没过多久，新鲜感过去之后，也就没再执着于写博客了，最后一次更新还停留在<strong>2025跨年的时候</strong>。访问量也当然是一天天减少，直到0。</p>
+### 名字由来
 
-<p>然而这时，我突然意识到自己终于理解了博客真正的作用——博客并不是写给别人的，而是写给自己的。无聊的晚自习、放松的暑假，甚至是紧张的备考前夕，那些情绪、那些回忆，都被博客一一收纳，用0和1存储在世界的一角，虽然渺小，但却承载着太多……</p>
+**克喵**，看过的最喜欢的小说(诡秘之主)的主角在书粉里的一个称呼，本人长期看小说(非书虫)，看小说时长2000+，看小说不需要太强的逻辑性。
 
-<p>写完这些，我无比舒畅，相比于朋友，博客更像一位善于倾听的老者，不厌其烦接受我们倾诉的一切，他从不说话，但已胜过千言万语。</p>
+**卤面**，本来我的id只有克喵，直到之前的宿命之环更新时加上了二代主角卢米安·李的名字，卢米安读快了就是**卤面**。
+
+<img align='right' src="https://s2.loli.net/2025/04/21/OMNycVpidhQt92r.png" width="150" alt="person">
+
+### 建站记录
+
+我从23年末开始使用小绿书，后来rz小编搞得社区乌烟瘴气，被ex的不行后像转战去别的平台看，正在思考的时候碰到了当时已经半退出小绿书的[@haoruanfenxiang (好软分享)](https://t.me/haoruanfenxiang)，
+在他的启发下前往了Telegram，让我大为震撼，于是便在这里住下了。之后通过其他殴打分享的项目接触到了博客。
+
+#### 2024.11
+- [**BroadcastChannel**](https://github.com/ccbikai/BroadcastChannel)是我接触的第一款博客。
+- 后续至今(2025.04.19)我已经陆陆续续尝试了[hexo](https://hexo.io/zh-cn/)、[hugo](https://gohugo.io/)、[astro](https://astro.build/)、[vitepress](https://vitepress.dev/)、[vuepress](https://vuepress.vuejs.org/)、[nuxt](https://nuxt.com/)等等，建站的过程中也给我带来了乐趣，时不时还写点博客。
+
+#### 2025.02.11
+- [**blog-v3**](https://github.com/L33Z22L11/blog-v3)是我的主力博客，基于 [nuxt](https://nuxt.com/) 全栈，灵感来源于 [hexo](https://hexo.io/zh-cn/) 的 [stellar](https://github.com/xaoxuu/hexo-theme-stellar) 主题，感谢纸鹿大佬的开源！
+- 可以在[Folo](https://app.follow.is/timeline/view-0/all/pending)里订阅[我](https://app.follow.is/share/feeds/135622467121437696)，感谢！
+
+#### 2025.05.06
+- 根据 [模板](https://github.com/noner-cmd/Triangle-blog) 搭建这个博客。
+
+### 兴趣爱好
+
+- **记录日记** 今年以前纸本的方式记录，今年转战[obsidian](https://obsidian.md/)、[notion](https://www.notion.com/)、[siyuan](https://b3log.org/siyuan/?lang=cn)最后定格在了[思源笔记](https://b3log.org/siyuan/?lang=cn)。
+
+- **音乐迷** 听的挺杂，什么好听听什么。
+
+- **资源分享** 分享好用的资源，在[Telegram](https://t.me/kemiaofx_me)能找到我搜集的最全的资源。
+
+> 生命不息,折腾不止。
+
+### Github 小游戏
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/liuchenyang0703/liuchenyang0703/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/liuchenyang0703/liuchenyang0703/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/liuchenyang0703/liuchenyang0703/output/github-contribution-grid-snake.svg">
+</picture>
+
+### 赞助
+
+可以关注一下我的[公众号](https://wechat.kemeow.top)。
+
+如果你觉得我的分享对你有帮助，不妨请我喝杯咖啡☕️，让我更有动力继续分享。
+
+<div style="display: flex; flex-direction: column; gap: 20px; margin: 1rem 0; align-items: center;">
+  <div style="text-align: center; width: 100%;">
+    <strong>支付宝</strong><br>
+    <img src="https://s2.loli.net/2025/04/13/HYrnNFOKDZPSv4p.jpg" style="width: 50%; min-width: 200px; display: block; margin: 0 auto;">
+  </div>
+  <div style="text-align: center; width: 100%;">
+    <strong>微信</strong><br>
+    <img src="https://s2.loli.net/2025/04/13/HQ4lbFfJkpU2R9V.jpg" style="width: 50%; min-width: 200px; display: block; margin: 0 auto;">
+  </div>
+</div>
+
+---
+
+感谢你能看到这里，希望我的分享对你有帮助，如果你有什么困扰，也可咨询我，在我时间有限的情况下，我会竭力回复。
+
+> **既然都看到这了，不妨留下你的评论。**

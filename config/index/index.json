@@ -1,24 +1,32 @@
 {
-  "blogTitle": "Triangle",
-  "slogan": "追求的意义不在于抵达终点，而在于路上每一寸光明的觉醒。",
-  "blogUrl": "https://egg-dan.space/",
-  "avatarUrl": "http://egg-dan.space/res/pic/avatar.jpg",
+  "blogTitle": "克喵",
+  "slogan": "奇迹只能一时，命运总是漫长。",
+  "blogUrl": "https://boke.152531.xyz/",
+  "avatarUrl": "https://s2.loli.net/2025/04/21/OMNycVpidhQt92r.png",
   "socialLinks": [
     {
       "platform": "qq",
-      "url": "https://tool.gljlw.com/qq/?qq=1952755413"
+      "url": "https://tool.gljlw.com/qq/?qq=3149261770"
     },
     {
       "platform": "spotify",
       "url": "https://y.music.163.com/m/user?id=2142752671"
     },
     {
+      "platform": "twitter",
+      "url": "https://x.com/kemiaosw"
+    },
+    {
+      "platform": "telegram",
+      "url": "https://t.me/KemiaoJun"
+    },
+    {
       "platform": "bilibili",
-      "url": "https://b23.tv/2c4GVzv"
+      "url": "https://space.bilibili.com/3546643173477234"
     },
     {
       "platform": "github",
-      "url": "https://github.com/noner-cmd"
+      "url": "https://github.com/Kemeow815"
     }
   ]
 }

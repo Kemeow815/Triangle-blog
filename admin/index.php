@@ -2,7 +2,7 @@
 session_start();
 $showContent = false;
 $error = false;
-$correctPassword = 'admin'; // 修改此处密码
+$correctPassword = 'qweasdzxc123'; // 修改此处密码
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $inputPassword = $_POST['password'] ?? '';
