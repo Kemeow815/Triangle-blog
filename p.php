@@ -8,7 +8,7 @@ if (!is_dir(dirname($jsonFile))) {
 // 读取现有数据
 $projects = json_decode(file_get_contents($jsonFile), true) ?: [
     'pageTitle' => 'Project',
-    'navH1' => 'WORLD',
+    'navH1' => '喵落阁',
     'leftFirstContainer' => [
         'title' => '🎯项目',
         'image' => '/res/pic/index.webp',

@@ -8,7 +8,7 @@ if (!is_dir(dirname($jsonFile))) {
 // 读取现有数据
 $scj = json_decode(file_get_contents($jsonFile), true) ?: [
     'pageTitle' => '收藏夹',
-    'navH1' => 'WORLD',
+    'navH1' => '喵落阁',
     'leftFirstContainer' => [
         'title' => '🧭收藏夹',
         'image' => '/res/pic/index.webp',
