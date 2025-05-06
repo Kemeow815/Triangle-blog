@@ -1,7 +1,7 @@
 <?php
 // 前置歌单ID和token，方便他人修改
-$playlistId = 2607560262;
-$token = "ouyoqpkoddz6tytiugz9ntfjzql9bg";
+$playlistId = 13681647281;
+$token = "qjadfh5xdycvmwijcyhurmzcpblrqq";
 
 // 发送请求获取歌单数据
 $curl = curl_init();
