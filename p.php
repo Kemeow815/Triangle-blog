@@ -12,7 +12,7 @@ $projects = json_decode(file_get_contents($jsonFile), true) ?: [
     'leftFirstContainer' => [
         'title' => '🎯项目',
         'image' => '/res/pic/index.webp',
-        'description' => '这里有许多有趣的项目。塔罗牌API🔮、简易网盘☁️等等...快来看看吧~'
+        'description' => '这里有许多有趣的项目。快来看看吧~'
     ],
     'rightContainers' => []
 ];
